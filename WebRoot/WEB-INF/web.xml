@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>IMOOC</display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Categoryselectservlet</servlet-name>
+    <servlet-class>com.servlet.Categoryselectservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Categoryservlet</servlet-name>
+    <servlet-class>com.servlet.Categoryservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Categorydeleteservlet</servlet-name>
+    <servlet-class>com.servlet.Categorydeleteservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Categoryupdateservlet</servlet-name>
+    <servlet-class>com.servlet.Categoryupdateservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CourseSelectservlet</servlet-name>
+    <servlet-class>com.servlet.CourseSelectservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Chapterselectservlet</servlet-name>
+    <servlet-class>com.servlet.Chapterselectservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UsersLoginServlet</servlet-name>
+    <servlet-class>com.servlet.UsersLoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Userselectservlet</servlet-name>
+    <servlet-class>com.servlet.Userselectservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Commentservlet</servlet-name>
+    <servlet-class>com.servlet.Commentservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Commentdeleteservlet</servlet-name>
+    <servlet-class>com.servlet.Commentdeleteservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ChapterAddservlet</servlet-name>
+    <servlet-class>com.servlet.ChapterAddservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Chapterdeleteservlet</servlet-name>
+    <servlet-class>com.servlet.Chapterdeleteservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CourseseleteidServlet</servlet-name>
+    <servlet-class>com.servlet.CourseseleteidServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>IUsersLoginServlets</servlet-name>
+    <servlet-class>com.servlet.IUsersLoginServlets</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UsersAddServlet</servlet-name>
+    <servlet-class>com.servlet.UsersAddServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ICategoryselectservlet</servlet-name>
+    <servlet-class>com.servlet.ICategoryselectservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>IICategoryselectservlet</servlet-name>
+    <servlet-class>com.servlet.IICategoryselectservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>jiezhangServlet</servlet-name>
+    <servlet-class>com.servlet.jiezhangServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Courseaddservlet</servlet-name>
+    <servlet-class>com.servlet.Courseaddservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Coursecxsservlet</servlet-name>
+    <servlet-class>com.servlet.Coursecxsservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>shipingservlet</servlet-name>
+    <servlet-class>com.servlet.shipingservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>spaddservlet</servlet-name>
+    <servlet-class>com.servlet.spaddservlet</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>Categoryselectservlet</servlet-name>
+    <url-pattern>/Categoryselectservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Categoryservlet</servlet-name>
+    <url-pattern>/Categoryservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Categorydeleteservlet</servlet-name>
+    <url-pattern>/Categorydeleteservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Categoryupdateservlet</servlet-name>
+    <url-pattern>/Categoryupdateservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CourseSelectservlet</servlet-name>
+    <url-pattern>/CourseSelectservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Chapterselectservlet</servlet-name>
+    <url-pattern>/Chapterselectservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UsersLoginServlet</servlet-name>
+    <url-pattern>/UsersLoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Userselectservlet</servlet-name>
+    <url-pattern>/Userselectservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Commentservlet</servlet-name>
+    <url-pattern>/Commentservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Commentdeleteservlet</servlet-name>
+    <url-pattern>/Commentdeleteservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ChapterAddservlet</servlet-name>
+    <url-pattern>/ChapterAddservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Chapterdeleteservlet</servlet-name>
+    <url-pattern>/Chapterdeleteservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CourseseleteidServlet</servlet-name>
+    <url-pattern>/CourseseleteidServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>IUsersLoginServlets</servlet-name>
+    <url-pattern>/IUsersLoginServlets</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UsersAddServlet</servlet-name>
+    <url-pattern>/UsersAddServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ICategoryselectservlet</servlet-name>
+    <url-pattern>/ICategoryselectservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>IICategoryselectservlet</servlet-name>
+    <url-pattern>/IICategoryselectservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>jiezhangServlet</servlet-name>
+    <url-pattern>/jiezhangServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Courseaddservlet</servlet-name>
+    <url-pattern>/Courseaddservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Coursecxsservlet</servlet-name>
+    <url-pattern>/Coursecxsservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>shipingservlet</servlet-name>
+    <url-pattern>/shipingservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>spaddservlet</servlet-name>
+    <url-pattern>/spaddservlet</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
